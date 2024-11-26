@@ -19,5 +19,5 @@ This is a beginner tutorial on React Router. We are building a landing page, abo
 - npm install
 - npm run dev
 - in a second terminal, start json-server:
-- npx json-server --watch --port 3500 data/db.json
+- npx json-server --watch --port 4000 data/db.json
 - in a browser connect to localhost:5173
